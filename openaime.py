@@ -132,6 +132,7 @@ def analyze_code_with_gpt(file_name: str, file_content: str) -> str:
 
 # Main: Execute analysis for all files in the repository
 if __name__ == "__main__":
+
     logging.info("🔍 Getting files from the repository...")
     files: List[str] = get_repo_files()
 
