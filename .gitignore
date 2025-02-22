@@ -1,0 +1,8 @@
+.*un
+.*un~
+.*swp
+.*swp~
+.env
+
+.vagrant
+.bak
