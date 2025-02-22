@@ -2,16 +2,22 @@
 
 ## De un vistazo
 Script que ayuda a sincronizar el contenido del repositorio con ChatGPT para poder tener un prompt interactivo de forma inmediata.
-A esta altura del proyecto utilizamos un script de python que consume la API de OpenAI para poder interactuar con el modelo de lenguaje GPT-4. Las tokens tanto de [OpenAI](https://platform.openai.com/docs/guides/authentication) como de [ChatGPT](https://platform.openai.com/docs/guides/chat-gpt) como de [Github](https://docs.github.com/es/rest) se encuentran en el archivo .env, el cual no se encuentra en el repositorio por motivos de seguridad.
+En esta fase del proyecto utilizamos un script de python que consume la API de OpenAI para poder interactuar con el modelo de lenguaje GPT-4.
+Las tokens de [OpenAI](https://platform.openai.com/docs/guides/authentication),
+[ChatGPT](https://platform.openai.com/docs/guides/chat-gpt) y [Github](https://docs.github.com/es/rest) se encuentran en el archivo .env,
+que no introducimos en CVS motivos de seguridad.
 
-
-## Overview
+## Como empezar
+### Requisitos
+### Instalación
+### Uso
 
 
 ## Appendix
 ### Integraciones y tecnologías utilizadas
 - [ ] [OpenAI](https://www.openai.com/ )
 - [ ] [Python](https://www.python.org/)
+- [ ] [Github](htttps://github.com)
 
 ### Meta-documentación
 La información acerca del propio proyecto; es decir, la información que no entregarías al cliente porque forma parte del proceso de aprendizaje
@@ -27,7 +33,11 @@ interno de tu compañía o de tu desarrollo personal. Por ejemplo, la descripci�
 \# TODO-oscar: Añadir dotfiles
 
 
-### About the author
+### Acerca del autor
 Óscar Heredia
-### Bibliography
+### Referencias
+- [OpenAI](https://www.openai.com/)
+- [Github](https://github.com)
+- [OpenAI API](https://platform.openai.com/docs/api-reference)
+- [OpenAI Docs](https://platform.openai.com/docs/overview)
 
